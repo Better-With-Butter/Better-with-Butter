@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Better With Butter Family
 ---
+Latest Video: 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Video I Recommend:
+
+[[Important Links]]
